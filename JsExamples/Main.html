@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Js Examples</title>
+        <style>
+            div{
+                border: 1px solid brown;
+            }
+        </style>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+    </head>
+    <body>
+        <script>
+           var products = ['Mixer','Cooler','Ac','Fridge'];
+           var prices = [5000,3000,12000,20000];
+          // var cart = [{prodname:'Kurti',price:500},{prodname:'shirt',price:300},{prodname:'Lehenga',price:12000},{prodname:'jeans',price:499}];
+           //anonymus function with join typed array
+           var show = function(){
+            document.getElementById('products').innerText=products.join('-');
+           }
+           function getdata(callback){
+               show();
+           }
+           //async/await with filter typed array
+            var filterdata = function(value){
+                return value >= 5000;
+            }
+           async function calculate(callback){
+            var result = await prices.filter(filterdata);
+            document.getElementById('price').innerText="price filter above 5000/- rs: " +result;
+           }
+           //
+          var view =  function(){
+           // alert(prices);
+            document.getElementById('price').innerText="These are the total prices: "+prices;
+           }
+        //get products using mapping
+           var cartproducts =products.map(function(value)  
+            {  
+                var product = value;  
+                return product;  
+             });  
+           function carts(callback){
+               document.getElementById('price').innerText="the products get by mapping method: "+cartproducts; 
+            }
+
+        </script>
+        <div id="products"></div><br/>
+        <div id="price"></div>
+       <button class="btn btn-primary" type="button" onclick="getdata(show)">Get Products</button>
+       <button class="btn btn-primary" type="button" onclick="calculate(filterdata)">price filter</button>
+       <button class="btn btn-primary" type="button" onclick="view()">Get allprices</button>
+       <button class="btn btn-primary" type="button" onclick="carts(cartproducts)">prices</button>
+    </body>
+</html>
