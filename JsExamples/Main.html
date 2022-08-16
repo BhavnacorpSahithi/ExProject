@@ -42,9 +42,17 @@
                 var product = value;  
                 return product;  
              });  
+
            function carts(callback){
                document.getElementById('price').innerText="the products get by mapping method: "+cartproducts; 
+             
             }
+            //includes
+            function includedata(){
+                var incdata = products.includes('Ac');
+               document.getElementById('price').innerText="the products get by mapping method: "+ incdata?"included":"not included"; 
+            }
+
 
         </script>
         <div id="products"></div><br/>
@@ -53,5 +61,6 @@
        <button class="btn btn-primary" type="button" onclick="calculate(filterdata)">price filter</button>
        <button class="btn btn-primary" type="button" onclick="view()">Get allprices</button>
        <button class="btn btn-primary" type="button" onclick="carts(cartproducts)">prices</button>
+       <button class="btn btn-primary" type="button" onclick="includedata()">search</button>
     </body>
 </html>
