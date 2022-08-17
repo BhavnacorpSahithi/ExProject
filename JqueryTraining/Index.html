@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JqueryTraining Effects</title>
+        <link href="style.css" src="text/stylesheet"/>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js">  
+        </script>
+        <script>
+            $(function(){
+                 $('#toggling').click(function(){
+                    $('#main').toggle(1000);
+                 });
+                $('#show').click(function(){
+                    $('#data').after('Note:we can use append also to add text after the paragraph');
+                    $('#data').show();
+                });
+                $('#fading').click(function(){
+                    $('pre').fadeOut(1000);
+                    $('#div1').fadeIn(1000).css('color','yellow');
+                    $('#main').css('background-color','grey');
+                });
+                $('#on').click(function(){
+                    $('#animation').css('background-color','yellow');
+                });
+                $('#off').click(function(){
+                    $('#animation').css('background-color','antiquewhite');
+                });
+                //start
+                $(".start").click(function(){
+                     $("img").animate({left: "+=150px"}, 2000);
+                   });
+                    // stop 
+                $(".stop").click(function(){
+                     $("img").stop();
+                  });
+                  //reverse
+                $(".back").click(function(){
+                    $("img").animate({left: "-=150px"}, 2000);
+                    });
+                    //add styling
+                    $(".styling").click(function(){
+                    $("img").toggleClass("stylings");
+                      $("#para1").fadeIn(1000);
+                      $("#para1").fadeOut(1000);
+                    });
+                    // $(".styling").click(function(){
+                    // $("img").removeClass("stylings");
+                    // });
+                    // reset
+                    $(".reset").click(function(){
+                    $("img").animate({left: "0"}, "fast");
+                    });
+            })
+        </script>
+         <style>
+              img{
+        position: relative; 
+             }
+             .stylings{
+                width:500px;
+                height:500px;
+                border-radius: 50px;
+             }
+          #main{
+            background-color:antiquewhite;
+            border:1px solid brown;
+            margin:5%;
+            padding: 1%;
+            display: none;
+        }
+        /* #main2{
+            background-color:antiquewhite;
+            border:1px solid brown;
+            margin:5%;
+            padding:2%;
+        } */
+        #div1{
+            display: none;
+        }
+        #animation{
+            background-color:burlywood ;
+            margin:0px 400px 20px 1000px;
+            border-radius: 20px;
+            border: 1px dotted brown;
+            padding:3%;
+        }
+        .bulb {
+            margin:0px 400px 20px 1000px;
+            display: inline-flex;
+        }
+        .bulb #off{
+            margin-left: 5px;
+        }
+        #data {
+            display:none;
+        }
+        #image{
+            display: block;
+        }
+        </style> 
+    </head>
+    <body>
+      <div id="main">
+        Hi, I am bulb toggling with jquery :).you can see show,fading 
+        <button id="show">Show</button>
+        <p id="data"></p>
+        <button id="fading">Fade</button>
+        <pre>Your eye is a slightly asymmetrical globe, about an inch in diameter. 
+             The front part (what you see in the mirror) includes:
+             Iris: the colored part.
+             Cornea: a clear dome over the iris.
+             Pupil: the black circular opening in the iris that lets light in.</pre>
+             <div id="div1"><b> I am fade in</b></div> <br/>
+             <div id="animation">bulb</div><br/>
+             <div class="bulb">
+                <button id="on">On</button>
+                <button id="off">Off</button>
+             </div>
+      </div>
+      <p>Click on toggle button to see a page</p>
+      <button id="toggling">Toggle</button>
+        <button class="start">Start</button>
+        <button class="stop">Stop</button>
+        <button class="back">Back</button>
+        <button class="styling">Add styles</button>
+        <button class="reset">Reset</button>
+        <p id="image">
+            <p id="para1">Silicon India <strong>BhavnaCorp</strong></p>
+            <img src="images/Coat.jpg" alt="background">
+            <p>I will blink when i addedd styles</p>
+        </p>
+    </body>
+</html>

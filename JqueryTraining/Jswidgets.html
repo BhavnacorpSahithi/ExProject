@@ -1,0 +1,120 @@
+<!doctype html>  
+<html lang="en">  
+<head>  
+  <meta charset="utf-8"  >
+  <title>Js Widgets</title>
+ <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css"/>
+ <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+ <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <script>  
+  $(function() {  
+    $( "#accordion" ).accordion();  
+    var availableTags = [  
+      "ActionScript",  
+      "AppleScript",  
+      "Asp",  
+      "BASIC",  
+      "C",  
+      "C++",  
+      "Clojure",  
+      "COBOL",  
+      "ColdFusion",  
+      "Erlang",  
+      "Fortran",  
+      "Groovy",  
+      "Haskell",  
+      "Java",  
+      "JavaScript",  
+      "Lisp",  
+      "Perl",  
+      "PHP",  
+      "Python",  
+      "Ruby",  
+      "Scala",  
+      "Scheme"  
+    ];  
+    $( "#tags" ).autocomplete({  
+         source: availableTags,
+         autofocus:true    
+    }) 
+    $("dob").datepicker();
+    $("#submitbtn").click(function(){
+        $( "#dialog" ).dialog( "open" );  
+    })
+    $( "#dialog" ).dialog({  
+               autoOpen: false   
+            }); 
+    $( "#progressbar" ).progressbar({  
+         value: 30  
+            }); 
+            $( "#number" )  
+      .selectmenu()  
+      .selectmenu( "menuWidget" )  
+        .addClass( "overflow" );   
+  });  
+  </script>
+  <style>
+    #menu1{
+        width: 200px;  
+    }
+    select {  
+      width: 200px;  
+    }  
+    #number{
+      height:50px;
+      width:200px;
+    }
+  </style>  
+</head>  
+<body>  
+<div id="accordion">  
+  <h3>Describe Eye?</h3>  
+  <div>  
+    <p>  
+        Your eye is a slightly asymmetrical globe, about an inch in diameter. The front part (what you see in the mirror) includes: Iris: the colored part. Cornea: a clear dome over the iris. Pupil: the black circular opening in the iris that lets light in
+    </p>    
+  </div>  
+  <h3>Describe Solar system</h3>  
+  <div>  
+    <p>  
+        Our solar system consists of our star, the Sun, and everything bound to it by gravity – the planets Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune; dwarf planets such as Pluto; dozens of moons; and millions of asteroids, comets, and meteoroids    </p>  
+  </div>  
+  <h3>Describe water cycle?</h3>  
+  <div>  
+    <p>  
+        The water cycle is often taught as a simple circular cycle of evaporation, condensation, and precipitation. Although this can be a useful model, the reality is much more complicated.
+    </p>  
+  </div>  
+  <h3>Describe COMPUTER?</h3>  
+  <div>  
+    <ul>  
+        <li>
+            A computer is a machine that can store and process information.
+            </li>
+            <li>
+                Most computers rely on a binary system, which uses two variables, 0 and 1,
+            </li>
+            <li>
+              to complete tasks such as storing data, calculating algorithms, and displaying information.
+        </li>
+    </ul>  
+  </div>  
+  </div>  
+  <!-- <h3>Auto complete for search</h3> -->
+  <label for="tags">Tags: </label>  
+  <input id="tags"> 
+  <!-- <h3>Datepicker</h3>  -->
+  Enter DOB:<input id="dob"/>
+  <!-- <p>submit the button to open dialog box</p> -->
+  <label for="number">Select age</label>  
+    <select name="number" id="number">  
+      <option>18</option>  
+      <option selected="selected">19</option>  
+      <option>20</option>  
+      <option>21</option>  
+      <option>22</option>  
+    </select>    
+  <button type="button" id="submitbtn"> Submit</button>
+  <div id="dialog" title="Submitted details">Groovy DOB:9/8/1998 </div>  
+ </body>  
+</html>  
