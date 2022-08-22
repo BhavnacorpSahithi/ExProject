@@ -1,3 +1,12 @@
 <div class="container">
     <p>{{TestDataB}}</p>
+    <select (change)="getselected($event)"> 
+        <option value="">select</option>
+        <option  *ngFor="let country of Countries">{{country}}      
+        </option>
+      </select>
+      <div [ngStyle]="{'background-color':selectedcountry == 'India'? 'blue':'yellow',
+                       'font-size':selectedcountry == 'USA'? '40px':'20px'}"  >
+        you have selected : {{selectedcountry}}
+      </div>
 </div>

@@ -7,6 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TestBComponent implements OnInit {
   TestDataB: string = '';
+  selectedcountry = '';
+  Countries :string[]=['India','USA','UK','Afganistan','Bangladesh'];
+   india :string[]=['AP','Assam','Bihar','Goa','Gujarat'];
+   usa :string[]=['California','Texas','Florida','Virginia','Alaska'];
+   uk :string[]=['England','Belfast','Cardiff','Edinburgh','London'];
+   afganistan :string[]=['kabul','Kandahar','Kapisa','Khost','Parwan'];
+   bnagladesh :string[]=['Barisal','chittagong','Dhaka','Kulna','Bengali'];
+
   constructor() { }
 
   ngOnInit(): void {
@@ -15,6 +23,9 @@ export class TestBComponent implements OnInit {
 
   sampleDataBinding(){
     this.TestDataB = 'test-B component data using interpolation';
+  }
+  getselected(event:any){
+    this.selectedcountry = event.target.value;
   }
 
 }
