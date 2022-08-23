@@ -1,0 +1,18 @@
+img{
+    width:40px;
+    height:40px;
+    border-radius: 10px;
+}
+.row {margin: 0 250px;}
+.card {
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+  
+  .column {
+    float:inline-start;
+    width: 30%;
+    padding: 0 5px;
+    margin:5px;
+  }
