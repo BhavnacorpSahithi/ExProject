@@ -1,0 +1,10 @@
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\bin\Debug\netcoreapp3.1\OrderEcommerceProject.deps.json
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\bin\Debug\netcoreapp3.1\OrderEcommerceProject.dll
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\bin\Debug\netcoreapp3.1\OrderEcommerceProject.pdb
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.AssemblyInfoInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.AssemblyInfo.cs
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.csproj.CoreCompileInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.dll
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.pdb
+C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.csproj.AssemblyReference.cache

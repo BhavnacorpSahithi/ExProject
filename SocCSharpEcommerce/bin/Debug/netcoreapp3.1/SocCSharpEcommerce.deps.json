@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SocCSharpEcommerce/1.0.0": {
+        "dependencies": {
+          "OrderEcommerceProject": "1.0.0",
+          "ProductEcommerce": "1.0.0"
+        },
+        "runtime": {
+          "SocCSharpEcommerce.dll": {}
+        }
+      },
+      "OrderEcommerceProject/1.0.0": {
+        "runtime": {
+          "OrderEcommerceProject.dll": {}
+        }
+      },
+      "ProductEcommerce/1.0.0": {
+        "runtime": {
+          "ProductEcommerce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocCSharpEcommerce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderEcommerceProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductEcommerce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

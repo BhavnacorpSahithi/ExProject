@@ -1,0 +1,10 @@
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\bin\Debug\netcoreapp3.1\ProductEcommerce.deps.json
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\bin\Debug\netcoreapp3.1\ProductEcommerce.dll
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\bin\Debug\netcoreapp3.1\ProductEcommerce.pdb
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.csproj.AssemblyReference.cache
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.AssemblyInfoInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.AssemblyInfo.cs
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.dll
+C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.pdb
