@@ -12,3 +12,17 @@ C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\Exam
 C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.dll
 C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.pdb
 C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.genruntimeconfig.cache
+D:\Training\SqlDay6\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.exe
+D:\Training\SqlDay6\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.deps.json
+D:\Training\SqlDay6\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.runtimeconfig.json
+D:\Training\SqlDay6\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.runtimeconfig.dev.json
+D:\Training\SqlDay6\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.dll
+D:\Training\SqlDay6\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.pdb
+D:\Training\SqlDay6\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.AssemblyInfo.cs
+D:\Training\SqlDay6\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.dll
+D:\Training\SqlDay6\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.pdb
+D:\Training\SqlDay6\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.genruntimeconfig.cache

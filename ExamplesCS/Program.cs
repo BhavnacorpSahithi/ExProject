@@ -58,7 +58,6 @@ namespace ExamplesCS
                     Console.WriteLine("stuTeacherName:" + stuTeacherName);
                     break;
                 case 3:
-                    Console.WriteLine("case 3 not working");
                     if (originalnum == reversenum)
                     {
                         Console.WriteLine("the number is palindrome: "+ originalnum);
@@ -80,7 +79,7 @@ namespace ExamplesCS
         {
             double area = 0.0;
 
-            area = Math.PI * radius * (radius + Math.Sqrt(radius * radius + radius * radius));
+            area = Math.PI * radius * (radius + Math.Sqrt(height * height + radius * radius));
 
             return area;
         }
