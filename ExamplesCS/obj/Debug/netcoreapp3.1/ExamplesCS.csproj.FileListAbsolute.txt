@@ -1,0 +1,14 @@
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.exe
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.deps.json
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.runtimeconfig.json
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.runtimeconfig.dev.json
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.dll
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\bin\Debug\netcoreapp3.1\ExamplesCS.pdb
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.csproj.AssemblyReference.cache
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.AssemblyInfoInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.AssemblyInfo.cs
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.csproj.CoreCompileInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.dll
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.pdb
+C:\Users\sahithi.annavarapu\source\repos\ExamplesCS\obj\Debug\netcoreapp3.1\ExamplesCS.genruntimeconfig.cache
