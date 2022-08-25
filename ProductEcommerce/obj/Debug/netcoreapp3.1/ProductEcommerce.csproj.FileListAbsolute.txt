@@ -8,3 +8,13 @@ C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.
 C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.csproj.CoreCompileInputs.cache
 C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.dll
 C:\Users\sahithi.annavarapu\source\repos\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.pdb
+D:\Training\SqlDay6\ProductEcommerce\bin\Debug\netcoreapp3.1\ProductEcommerce.deps.json
+D:\Training\SqlDay6\ProductEcommerce\bin\Debug\netcoreapp3.1\ProductEcommerce.dll
+D:\Training\SqlDay6\ProductEcommerce\bin\Debug\netcoreapp3.1\ProductEcommerce.pdb
+D:\Training\SqlDay6\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.AssemblyInfo.cs
+D:\Training\SqlDay6\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.dll
+D:\Training\SqlDay6\ProductEcommerce\obj\Debug\netcoreapp3.1\ProductEcommerce.pdb

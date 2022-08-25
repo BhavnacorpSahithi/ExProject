@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\OrderEcommerceProject.csproj": {}
+    "D:\\Training\\SqlDay6\\OrderEcommerceProject\\OrderEcommerceProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\OrderEcommerceProject.csproj": {
+    "D:\\Training\\SqlDay6\\OrderEcommerceProject\\OrderEcommerceProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\OrderEcommerceProject.csproj",
+        "projectUniqueName": "D:\\Training\\SqlDay6\\OrderEcommerceProject\\OrderEcommerceProject.csproj",
         "projectName": "OrderEcommerceProject",
-        "projectPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\OrderEcommerceProject.csproj",
+        "projectPath": "D:\\Training\\SqlDay6\\OrderEcommerceProject\\OrderEcommerceProject.csproj",
         "packagesPath": "C:\\Users\\sahithi.annavarapu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\obj\\",
+        "outputPath": "D:\\Training\\SqlDay6\\OrderEcommerceProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

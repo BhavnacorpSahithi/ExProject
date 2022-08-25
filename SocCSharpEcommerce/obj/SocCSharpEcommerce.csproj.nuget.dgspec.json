@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahithi.annavarapu\\source\\repos\\SocCSharpEcommerce\\SocCSharpEcommerce.csproj": {}
+    "D:\\Training\\SqlDay6\\SocCSharpEcommerce\\SocCSharpEcommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\OrderEcommerceProject.csproj": {
+    "D:\\Training\\SqlDay6\\OrderEcommerceProject\\OrderEcommerceProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\OrderEcommerceProject.csproj",
+        "projectUniqueName": "D:\\Training\\SqlDay6\\OrderEcommerceProject\\OrderEcommerceProject.csproj",
         "projectName": "OrderEcommerceProject",
-        "projectPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\OrderEcommerceProject.csproj",
+        "projectPath": "D:\\Training\\SqlDay6\\OrderEcommerceProject\\OrderEcommerceProject.csproj",
         "packagesPath": "C:\\Users\\sahithi.annavarapu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\obj\\",
+        "outputPath": "D:\\Training\\SqlDay6\\OrderEcommerceProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\sahithi.annavarapu\\source\\repos\\ProductEcommerce\\ProductEcommerce.csproj": {
+    "D:\\Training\\SqlDay6\\ProductEcommerce\\ProductEcommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahithi.annavarapu\\source\\repos\\ProductEcommerce\\ProductEcommerce.csproj",
+        "projectUniqueName": "D:\\Training\\SqlDay6\\ProductEcommerce\\ProductEcommerce.csproj",
         "projectName": "ProductEcommerce",
-        "projectPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\ProductEcommerce\\ProductEcommerce.csproj",
+        "projectPath": "D:\\Training\\SqlDay6\\ProductEcommerce\\ProductEcommerce.csproj",
         "packagesPath": "C:\\Users\\sahithi.annavarapu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\ProductEcommerce\\obj\\",
+        "outputPath": "D:\\Training\\SqlDay6\\ProductEcommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\sahithi.annavarapu\\source\\repos\\SocCSharpEcommerce\\SocCSharpEcommerce.csproj": {
+    "D:\\Training\\SqlDay6\\SocCSharpEcommerce\\SocCSharpEcommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahithi.annavarapu\\source\\repos\\SocCSharpEcommerce\\SocCSharpEcommerce.csproj",
+        "projectUniqueName": "D:\\Training\\SqlDay6\\SocCSharpEcommerce\\SocCSharpEcommerce.csproj",
         "projectName": "SocCSharpEcommerce",
-        "projectPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\SocCSharpEcommerce\\SocCSharpEcommerce.csproj",
+        "projectPath": "D:\\Training\\SqlDay6\\SocCSharpEcommerce\\SocCSharpEcommerce.csproj",
         "packagesPath": "C:\\Users\\sahithi.annavarapu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\SocCSharpEcommerce\\obj\\",
+        "outputPath": "D:\\Training\\SqlDay6\\SocCSharpEcommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -154,11 +154,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\OrderEcommerceProject.csproj": {
-                "projectPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\OrderEcommerceProject\\OrderEcommerceProject.csproj"
+              "D:\\Training\\SqlDay6\\OrderEcommerceProject\\OrderEcommerceProject.csproj": {
+                "projectPath": "D:\\Training\\SqlDay6\\OrderEcommerceProject\\OrderEcommerceProject.csproj"
               },
-              "C:\\Users\\sahithi.annavarapu\\source\\repos\\ProductEcommerce\\ProductEcommerce.csproj": {
-                "projectPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\ProductEcommerce\\ProductEcommerce.csproj"
+              "D:\\Training\\SqlDay6\\ProductEcommerce\\ProductEcommerce.csproj": {
+                "projectPath": "D:\\Training\\SqlDay6\\ProductEcommerce\\ProductEcommerce.csproj"
               }
             }
           }

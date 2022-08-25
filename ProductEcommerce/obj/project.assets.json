@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sahithi.annavarapu\\source\\repos\\ProductEcommerce\\ProductEcommerce.csproj",
+      "projectUniqueName": "D:\\Training\\SqlDay6\\ProductEcommerce\\ProductEcommerce.csproj",
       "projectName": "ProductEcommerce",
-      "projectPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\ProductEcommerce\\ProductEcommerce.csproj",
+      "projectPath": "D:\\Training\\SqlDay6\\ProductEcommerce\\ProductEcommerce.csproj",
       "packagesPath": "C:\\Users\\sahithi.annavarapu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sahithi.annavarapu\\source\\repos\\ProductEcommerce\\obj\\",
+      "outputPath": "D:\\Training\\SqlDay6\\ProductEcommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

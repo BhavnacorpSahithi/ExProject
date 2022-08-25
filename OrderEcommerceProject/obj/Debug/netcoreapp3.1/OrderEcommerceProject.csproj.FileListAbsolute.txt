@@ -8,3 +8,13 @@ C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcore
 C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.dll
 C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.pdb
 C:\Users\sahithi.annavarapu\source\repos\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\OrderEcommerceProject\bin\Debug\netcoreapp3.1\OrderEcommerceProject.deps.json
+D:\Training\SqlDay6\OrderEcommerceProject\bin\Debug\netcoreapp3.1\OrderEcommerceProject.dll
+D:\Training\SqlDay6\OrderEcommerceProject\bin\Debug\netcoreapp3.1\OrderEcommerceProject.pdb
+D:\Training\SqlDay6\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.AssemblyInfo.cs
+D:\Training\SqlDay6\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.dll
+D:\Training\SqlDay6\OrderEcommerceProject\obj\Debug\netcoreapp3.1\OrderEcommerceProject.pdb
