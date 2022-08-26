@@ -1,0 +1,14 @@
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\bin\Debug\netcoreapp3.1\InheritCSharp.exe
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\bin\Debug\netcoreapp3.1\InheritCSharp.deps.json
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\bin\Debug\netcoreapp3.1\InheritCSharp.runtimeconfig.json
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\bin\Debug\netcoreapp3.1\InheritCSharp.runtimeconfig.dev.json
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\bin\Debug\netcoreapp3.1\InheritCSharp.dll
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\bin\Debug\netcoreapp3.1\InheritCSharp.pdb
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\obj\Debug\netcoreapp3.1\InheritCSharp.csproj.AssemblyReference.cache
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\obj\Debug\netcoreapp3.1\InheritCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\obj\Debug\netcoreapp3.1\InheritCSharp.AssemblyInfoInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\obj\Debug\netcoreapp3.1\InheritCSharp.AssemblyInfo.cs
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\obj\Debug\netcoreapp3.1\InheritCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\obj\Debug\netcoreapp3.1\InheritCSharp.dll
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\obj\Debug\netcoreapp3.1\InheritCSharp.pdb
+C:\Users\sahithi.annavarapu\source\repos\InheritCSharp\obj\Debug\netcoreapp3.1\InheritCSharp.genruntimeconfig.cache
