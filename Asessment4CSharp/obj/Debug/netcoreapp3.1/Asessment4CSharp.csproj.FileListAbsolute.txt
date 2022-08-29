@@ -1,0 +1,17 @@
+D:\Training\SqlDay6\Asessment4CSharp\bin\Debug\netcoreapp3.1\Asessment4CSharp.exe
+D:\Training\SqlDay6\Asessment4CSharp\bin\Debug\netcoreapp3.1\Asessment4CSharp.deps.json
+D:\Training\SqlDay6\Asessment4CSharp\bin\Debug\netcoreapp3.1\Asessment4CSharp.runtimeconfig.json
+D:\Training\SqlDay6\Asessment4CSharp\bin\Debug\netcoreapp3.1\Asessment4CSharp.runtimeconfig.dev.json
+D:\Training\SqlDay6\Asessment4CSharp\bin\Debug\netcoreapp3.1\Asessment4CSharp.dll
+D:\Training\SqlDay6\Asessment4CSharp\bin\Debug\netcoreapp3.1\Asessment4CSharp.pdb
+D:\Training\SqlDay6\Asessment4CSharp\bin\Debug\netcoreapp3.1\Library.dll
+D:\Training\SqlDay6\Asessment4CSharp\bin\Debug\netcoreapp3.1\Library.pdb
+D:\Training\SqlDay6\Asessment4CSharp\obj\Debug\netcoreapp3.1\Asessment4CSharp.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\Asessment4CSharp\obj\Debug\netcoreapp3.1\Asessment4CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\Asessment4CSharp\obj\Debug\netcoreapp3.1\Asessment4CSharp.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\Asessment4CSharp\obj\Debug\netcoreapp3.1\Asessment4CSharp.AssemblyInfo.cs
+D:\Training\SqlDay6\Asessment4CSharp\obj\Debug\netcoreapp3.1\Asessment4CSharp.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\Asessment4CSharp\obj\Debug\netcoreapp3.1\Asessment4CSharp.csproj.CopyComplete
+D:\Training\SqlDay6\Asessment4CSharp\obj\Debug\netcoreapp3.1\Asessment4CSharp.dll
+D:\Training\SqlDay6\Asessment4CSharp\obj\Debug\netcoreapp3.1\Asessment4CSharp.pdb
+D:\Training\SqlDay6\Asessment4CSharp\obj\Debug\netcoreapp3.1\Asessment4CSharp.genruntimeconfig.cache
