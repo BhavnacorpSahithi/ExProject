@@ -9,6 +9,7 @@ namespace LibraryModel
     public class Crud : ICrud
     {
         login lgn = new login();
+        Logger lgr = new Logger();
         SqlConnection con = new SqlConnection("server=localhost;database=vbforms;Integrated Security=true");
         public void delete()
         {
@@ -24,7 +25,7 @@ namespace LibraryModel
             }
             catch (Exception ex)
             {
-                Console.WriteLine("erroe message is: " + ex);
+                Console.WriteLine("error message is: " + ex);
             }
             finally
             {
@@ -57,6 +58,30 @@ namespace LibraryModel
                 Console.WriteLine("Console crud with sql");
             }
         }
+        public void loggerinsert()
+        {
+            try
+            {
+                //Console.WriteLine("enter name: "); lgn.name = Console.ReadLine();
+                //Console.WriteLine("enter email: "); lgn.email = Console.ReadLine();
+                //Console.WriteLine("enter password: "); lgn.password = Console.ReadLine();
+                //Console.WriteLine("enter mobile: "); lgn.mobile = double.Parse(Console.ReadLine());
+
+                SqlCommand com = new SqlCommand("insert into logger values('" + lgr.message + "','" + DateTime.Now + "','"+lgn.id+"')", con);
+                con.Open();
+                com.ExecuteNonQuery();
+                con.Close();
+                Console.WriteLine("Record inserted :)");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("erroe message is: " + ex);
+            }
+            finally
+            {
+                Console.WriteLine("Console crud with sql");
+            }
+        }
         public void loginuser()
         {
             try
@@ -73,13 +98,14 @@ namespace LibraryModel
                 {
                     if (lgn.email.ToString() == ds.Tables[0].Rows[i][2].ToString() && lgn.password == ds.Tables[0].Rows[i][3].ToString())
                     {
-                        //Console.WriteLine("id: " + ds.Tables[0].Rows[i][0].ToString()); ;
+                        //Console.WriteLine("id: " + ds.Tables[0].Rows[i][0].ToString()); 
                         //Console.WriteLine("name: " + ds.Tables[0].Rows[i][1].ToString());
                         //Console.WriteLine("email: " + ds.Tables[0].Rows[i][2].ToString()); ;
                         //Console.WriteLine("password: " + ds.Tables[0].Rows[i][3].ToString());
                         //Console.WriteLine("mobile: " + ds.Tables[0].Rows[i][4].ToString());
                         Console.WriteLine("plz insert data");
                         insert();
+                        loggerinsert();
                     }
                     else
                     {
