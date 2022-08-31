@@ -1,0 +1,14 @@
+D:\Training\SqlDay6\ExRevision\bin\Debug\netcoreapp3.1\ExRevision.exe
+D:\Training\SqlDay6\ExRevision\bin\Debug\netcoreapp3.1\ExRevision.deps.json
+D:\Training\SqlDay6\ExRevision\bin\Debug\netcoreapp3.1\ExRevision.runtimeconfig.json
+D:\Training\SqlDay6\ExRevision\bin\Debug\netcoreapp3.1\ExRevision.runtimeconfig.dev.json
+D:\Training\SqlDay6\ExRevision\bin\Debug\netcoreapp3.1\ExRevision.dll
+D:\Training\SqlDay6\ExRevision\bin\Debug\netcoreapp3.1\ExRevision.pdb
+D:\Training\SqlDay6\ExRevision\obj\Debug\netcoreapp3.1\ExRevision.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\ExRevision\obj\Debug\netcoreapp3.1\ExRevision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\ExRevision\obj\Debug\netcoreapp3.1\ExRevision.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\ExRevision\obj\Debug\netcoreapp3.1\ExRevision.AssemblyInfo.cs
+D:\Training\SqlDay6\ExRevision\obj\Debug\netcoreapp3.1\ExRevision.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\ExRevision\obj\Debug\netcoreapp3.1\ExRevision.dll
+D:\Training\SqlDay6\ExRevision\obj\Debug\netcoreapp3.1\ExRevision.pdb
+D:\Training\SqlDay6\ExRevision\obj\Debug\netcoreapp3.1\ExRevision.genruntimeconfig.cache
