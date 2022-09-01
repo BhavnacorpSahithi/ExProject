@@ -1,0 +1,14 @@
+D:\Training\SqlDay6\DelegateExamples\bin\Debug\netcoreapp3.1\DelegateExamples.exe
+D:\Training\SqlDay6\DelegateExamples\bin\Debug\netcoreapp3.1\DelegateExamples.deps.json
+D:\Training\SqlDay6\DelegateExamples\bin\Debug\netcoreapp3.1\DelegateExamples.runtimeconfig.json
+D:\Training\SqlDay6\DelegateExamples\bin\Debug\netcoreapp3.1\DelegateExamples.runtimeconfig.dev.json
+D:\Training\SqlDay6\DelegateExamples\bin\Debug\netcoreapp3.1\DelegateExamples.dll
+D:\Training\SqlDay6\DelegateExamples\bin\Debug\netcoreapp3.1\DelegateExamples.pdb
+D:\Training\SqlDay6\DelegateExamples\obj\Debug\netcoreapp3.1\DelegateExamples.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\DelegateExamples\obj\Debug\netcoreapp3.1\DelegateExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\DelegateExamples\obj\Debug\netcoreapp3.1\DelegateExamples.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\DelegateExamples\obj\Debug\netcoreapp3.1\DelegateExamples.AssemblyInfo.cs
+D:\Training\SqlDay6\DelegateExamples\obj\Debug\netcoreapp3.1\DelegateExamples.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\DelegateExamples\obj\Debug\netcoreapp3.1\DelegateExamples.dll
+D:\Training\SqlDay6\DelegateExamples\obj\Debug\netcoreapp3.1\DelegateExamples.pdb
+D:\Training\SqlDay6\DelegateExamples\obj\Debug\netcoreapp3.1\DelegateExamples.genruntimeconfig.cache
