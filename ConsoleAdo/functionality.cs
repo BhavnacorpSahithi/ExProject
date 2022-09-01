@@ -80,7 +80,7 @@ namespace ConsoleAdo
         }
             catch(Exception ex)
             {
-                Console.WriteLine("erroe message is: " + ex);
+                Console.WriteLine("error message is: " + ex);
             }
             finally
             {
