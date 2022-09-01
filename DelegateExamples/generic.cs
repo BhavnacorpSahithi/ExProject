@@ -16,8 +16,8 @@ namespace DelegateExamples
             obj1(7);
 
             Predicate<string> obj2 = new Predicate<string>(gr.validate);
-            bool result = obj2("Madhavi");
-            Console.WriteLine("predicate",result);
+            bool result = obj2("");
+            Console.WriteLine("predicate: "+result);
         }
         //generic delegate predicate
         List<string> str = new List<string>()
@@ -30,9 +30,9 @@ namespace DelegateExamples
 
         };
 
-        public bool validate(string name)
+        public bool validate(string res)
         {
-            if (name.Length > 5)
+            if (str.Count <= 5)
             { return true; }
             else
             {
