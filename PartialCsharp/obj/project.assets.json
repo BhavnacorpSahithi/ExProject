@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\SqlDay6\\Assessment4CS\\PartialCsharp.csproj",
+      "projectUniqueName": "D:\\Training\\SqlDay6\\PartialCsharp\\PartialCsharp.csproj",
       "projectName": "PartialCsharp",
-      "projectPath": "D:\\Training\\SqlDay6\\Assessment4CS\\PartialCsharp.csproj",
+      "projectPath": "D:\\Training\\SqlDay6\\PartialCsharp\\PartialCsharp.csproj",
       "packagesPath": "C:\\Users\\sahithi.annavarapu\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\SqlDay6\\Assessment4CS\\obj\\",
+      "outputPath": "D:\\Training\\SqlDay6\\PartialCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

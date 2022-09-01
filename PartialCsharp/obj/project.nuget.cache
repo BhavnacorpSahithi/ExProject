@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "faAGxE2jtgOfEppjc85SVzVFJtzLV0328Maxu3AlO2rf+Z8EnAKGybKn7eOrQOvxyf3s1mIZ5SSL9EKv1NMKIA==",
+  "dgSpecHash": "uQyd5o6DCk27MXYcpuDbzB/A/rP5TRiWXpbJ1y+eXWSPtdSwtG4QIuDJ8pbKGx+7DZ+mDA3EVxbc5mc3xwNBJw==",
   "success": true,
-  "projectFilePath": "D:\\Training\\SqlDay6\\Assessment4CS\\PartialCsharp.csproj",
+  "projectFilePath": "D:\\Training\\SqlDay6\\PartialCsharp\\PartialCsharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
