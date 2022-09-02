@@ -1,0 +1,17 @@
+D:\Training\SqlDay6\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+D:\Training\SqlDay6\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+D:\Training\SqlDay6\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+D:\Training\SqlDay6\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+D:\Training\SqlDay6\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+D:\Training\SqlDay6\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+D:\Training\SqlDay6\Operators\bin\Debug\netcoreapp3.1\Operatorlibrary.dll
+D:\Training\SqlDay6\Operators\bin\Debug\netcoreapp3.1\Operatorlibrary.pdb
+D:\Training\SqlDay6\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\Operators\obj\Debug\netcoreapp3.1\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+D:\Training\SqlDay6\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CopyComplete
+D:\Training\SqlDay6\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+D:\Training\SqlDay6\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+D:\Training\SqlDay6\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
