@@ -1,0 +1,10 @@
+C:\Users\sahithi.annavarapu\source\repos\Franchise\obj\Debug\netcoreapp3.1\Franchise.csproj.AssemblyReference.cache
+C:\Users\sahithi.annavarapu\source\repos\Franchise\obj\Debug\netcoreapp3.1\Franchise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahithi.annavarapu\source\repos\Franchise\obj\Debug\netcoreapp3.1\Franchise.AssemblyInfoInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\Franchise\obj\Debug\netcoreapp3.1\Franchise.AssemblyInfo.cs
+C:\Users\sahithi.annavarapu\source\repos\Franchise\obj\Debug\netcoreapp3.1\Franchise.csproj.CoreCompileInputs.cache
+C:\Users\sahithi.annavarapu\source\repos\Franchise\bin\Debug\netcoreapp3.1\Franchise.deps.json
+C:\Users\sahithi.annavarapu\source\repos\Franchise\bin\Debug\netcoreapp3.1\Franchise.dll
+C:\Users\sahithi.annavarapu\source\repos\Franchise\bin\Debug\netcoreapp3.1\Franchise.pdb
+C:\Users\sahithi.annavarapu\source\repos\Franchise\obj\Debug\netcoreapp3.1\Franchise.dll
+C:\Users\sahithi.annavarapu\source\repos\Franchise\obj\Debug\netcoreapp3.1\Franchise.pdb
