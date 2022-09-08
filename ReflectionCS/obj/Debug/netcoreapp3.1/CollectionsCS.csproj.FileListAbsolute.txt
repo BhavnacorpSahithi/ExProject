@@ -1,0 +1,14 @@
+D:\Training\SqlDay6\CollectionsCS\bin\Debug\netcoreapp3.1\CollectionsCS.exe
+D:\Training\SqlDay6\CollectionsCS\bin\Debug\netcoreapp3.1\CollectionsCS.deps.json
+D:\Training\SqlDay6\CollectionsCS\bin\Debug\netcoreapp3.1\CollectionsCS.runtimeconfig.json
+D:\Training\SqlDay6\CollectionsCS\bin\Debug\netcoreapp3.1\CollectionsCS.runtimeconfig.dev.json
+D:\Training\SqlDay6\CollectionsCS\bin\Debug\netcoreapp3.1\CollectionsCS.dll
+D:\Training\SqlDay6\CollectionsCS\bin\Debug\netcoreapp3.1\CollectionsCS.pdb
+D:\Training\SqlDay6\CollectionsCS\obj\Debug\netcoreapp3.1\CollectionsCS.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\CollectionsCS\obj\Debug\netcoreapp3.1\CollectionsCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\CollectionsCS\obj\Debug\netcoreapp3.1\CollectionsCS.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\CollectionsCS\obj\Debug\netcoreapp3.1\CollectionsCS.AssemblyInfo.cs
+D:\Training\SqlDay6\CollectionsCS\obj\Debug\netcoreapp3.1\CollectionsCS.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\CollectionsCS\obj\Debug\netcoreapp3.1\CollectionsCS.dll
+D:\Training\SqlDay6\CollectionsCS\obj\Debug\netcoreapp3.1\CollectionsCS.pdb
+D:\Training\SqlDay6\CollectionsCS\obj\Debug\netcoreapp3.1\CollectionsCS.genruntimeconfig.cache
