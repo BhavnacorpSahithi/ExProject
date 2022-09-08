@@ -1,0 +1,13 @@
+D:\Training\SqlDay6\BasicCS_Ytb\bin\Debug\netcoreapp3.1\BasicCS_Ytb.exe
+D:\Training\SqlDay6\BasicCS_Ytb\bin\Debug\netcoreapp3.1\BasicCS_Ytb.deps.json
+D:\Training\SqlDay6\BasicCS_Ytb\bin\Debug\netcoreapp3.1\BasicCS_Ytb.runtimeconfig.json
+D:\Training\SqlDay6\BasicCS_Ytb\bin\Debug\netcoreapp3.1\BasicCS_Ytb.runtimeconfig.dev.json
+D:\Training\SqlDay6\BasicCS_Ytb\bin\Debug\netcoreapp3.1\BasicCS_Ytb.dll
+D:\Training\SqlDay6\BasicCS_Ytb\bin\Debug\netcoreapp3.1\BasicCS_Ytb.pdb
+D:\Training\SqlDay6\BasicCS_Ytb\obj\Debug\netcoreapp3.1\BasicCS_Ytb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\BasicCS_Ytb\obj\Debug\netcoreapp3.1\BasicCS_Ytb.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\BasicCS_Ytb\obj\Debug\netcoreapp3.1\BasicCS_Ytb.AssemblyInfo.cs
+D:\Training\SqlDay6\BasicCS_Ytb\obj\Debug\netcoreapp3.1\BasicCS_Ytb.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\BasicCS_Ytb\obj\Debug\netcoreapp3.1\BasicCS_Ytb.dll
+D:\Training\SqlDay6\BasicCS_Ytb\obj\Debug\netcoreapp3.1\BasicCS_Ytb.pdb
+D:\Training\SqlDay6\BasicCS_Ytb\obj\Debug\netcoreapp3.1\BasicCS_Ytb.genruntimeconfig.cache
