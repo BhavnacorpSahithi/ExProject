@@ -1,0 +1,14 @@
+D:\Training\SqlDay6\CollerStringCS\bin\Debug\netcoreapp3.1\CollerStringCS.exe
+D:\Training\SqlDay6\CollerStringCS\bin\Debug\netcoreapp3.1\CollerStringCS.deps.json
+D:\Training\SqlDay6\CollerStringCS\bin\Debug\netcoreapp3.1\CollerStringCS.runtimeconfig.json
+D:\Training\SqlDay6\CollerStringCS\bin\Debug\netcoreapp3.1\CollerStringCS.runtimeconfig.dev.json
+D:\Training\SqlDay6\CollerStringCS\bin\Debug\netcoreapp3.1\CollerStringCS.dll
+D:\Training\SqlDay6\CollerStringCS\bin\Debug\netcoreapp3.1\CollerStringCS.pdb
+D:\Training\SqlDay6\CollerStringCS\obj\Debug\netcoreapp3.1\CollerStringCS.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\CollerStringCS\obj\Debug\netcoreapp3.1\CollerStringCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\CollerStringCS\obj\Debug\netcoreapp3.1\CollerStringCS.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\CollerStringCS\obj\Debug\netcoreapp3.1\CollerStringCS.AssemblyInfo.cs
+D:\Training\SqlDay6\CollerStringCS\obj\Debug\netcoreapp3.1\CollerStringCS.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\CollerStringCS\obj\Debug\netcoreapp3.1\CollerStringCS.dll
+D:\Training\SqlDay6\CollerStringCS\obj\Debug\netcoreapp3.1\CollerStringCS.pdb
+D:\Training\SqlDay6\CollerStringCS\obj\Debug\netcoreapp3.1\CollerStringCS.genruntimeconfig.cache
