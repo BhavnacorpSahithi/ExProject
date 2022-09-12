@@ -1,0 +1,10 @@
+D:\Training\SqlDay6\Store\obj\Debug\netcoreapp3.1\Management.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\Store\obj\Debug\netcoreapp3.1\Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\Store\obj\Debug\netcoreapp3.1\Management.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\Store\obj\Debug\netcoreapp3.1\Management.AssemblyInfo.cs
+D:\Training\SqlDay6\Store\obj\Debug\netcoreapp3.1\Management.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\Store\bin\Debug\netcoreapp3.1\Management.deps.json
+D:\Training\SqlDay6\Store\bin\Debug\netcoreapp3.1\Management.dll
+D:\Training\SqlDay6\Store\bin\Debug\netcoreapp3.1\Management.pdb
+D:\Training\SqlDay6\Store\obj\Debug\netcoreapp3.1\Management.dll
+D:\Training\SqlDay6\Store\obj\Debug\netcoreapp3.1\Management.pdb
