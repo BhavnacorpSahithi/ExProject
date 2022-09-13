@@ -1,0 +1,14 @@
+D:\Training\SqlDay6\ThreadsCS\bin\Debug\netcoreapp3.1\ThreadsCS.exe
+D:\Training\SqlDay6\ThreadsCS\bin\Debug\netcoreapp3.1\ThreadsCS.deps.json
+D:\Training\SqlDay6\ThreadsCS\bin\Debug\netcoreapp3.1\ThreadsCS.runtimeconfig.json
+D:\Training\SqlDay6\ThreadsCS\bin\Debug\netcoreapp3.1\ThreadsCS.runtimeconfig.dev.json
+D:\Training\SqlDay6\ThreadsCS\bin\Debug\netcoreapp3.1\ThreadsCS.dll
+D:\Training\SqlDay6\ThreadsCS\bin\Debug\netcoreapp3.1\ThreadsCS.pdb
+D:\Training\SqlDay6\ThreadsCS\obj\Debug\netcoreapp3.1\ThreadsCS.csproj.AssemblyReference.cache
+D:\Training\SqlDay6\ThreadsCS\obj\Debug\netcoreapp3.1\ThreadsCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SqlDay6\ThreadsCS\obj\Debug\netcoreapp3.1\ThreadsCS.AssemblyInfoInputs.cache
+D:\Training\SqlDay6\ThreadsCS\obj\Debug\netcoreapp3.1\ThreadsCS.AssemblyInfo.cs
+D:\Training\SqlDay6\ThreadsCS\obj\Debug\netcoreapp3.1\ThreadsCS.csproj.CoreCompileInputs.cache
+D:\Training\SqlDay6\ThreadsCS\obj\Debug\netcoreapp3.1\ThreadsCS.dll
+D:\Training\SqlDay6\ThreadsCS\obj\Debug\netcoreapp3.1\ThreadsCS.pdb
+D:\Training\SqlDay6\ThreadsCS\obj\Debug\netcoreapp3.1\ThreadsCS.genruntimeconfig.cache
