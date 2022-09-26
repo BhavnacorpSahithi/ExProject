@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\background.jpg" />
+    <None Include="wwwroot\images\Coat.jpg" />
+    <None Include="wwwroot\images\Full heels.jpg" />
+    <None Include="wwwroot\images\Hoodie.jpg" />
+    <None Include="wwwroot\images\jeans set.jpg" />
+    <None Include="wwwroot\images\main.jpg" />
+    <None Include="wwwroot\images\specs.jpg" />
+  </ItemGroup>
+
+</Project>
